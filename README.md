@@ -1,6 +1,7 @@
 # Telecommunication-Systems-THL302
-These are the labs of the Course : Statistical-Modeling-and-Pattern-Recognition-THL311
+These are the labs of the Course : Telecommunication-Systems-THL302
 
-with professor : Michail Zerbakis
+with professor : Athanasios Liabas
 
 from: Techincal University Of Crete
+
